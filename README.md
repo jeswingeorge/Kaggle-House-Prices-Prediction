@@ -8,4 +8,4 @@
 6. [EDA and Prediction: Part 5](https://nbviewer.jupyter.org/github/jeswingeorge/Kaggle-House-Prices-Prediction/blob/master/6.EDA-prediction.ipynb)
     - Hyperparameter tuning and catboost
     
-7. [EDA and Prediction: Part 6]()
+7. [EDA and Prediction: Part 6](https://nbviewer.jupyter.org/github/jeswingeorge/Kaggle-House-Prices-Prediction/blob/master/7.EDA-prediction.ipynb)
